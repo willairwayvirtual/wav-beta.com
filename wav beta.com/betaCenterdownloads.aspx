@@ -1,4 +1,4 @@
-﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="betaCenter downloads.aspx.vb" Inherits="wav_beta.com.betaCenter_downloads" %>
+﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="betaCenterdownloads.aspx.vb" Inherits="wav_beta.com.betaCenter_downloads" %>
 
 <!DOCTYPE html>
 

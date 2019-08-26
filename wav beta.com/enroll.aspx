@@ -62,7 +62,7 @@
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td>
             </tr>
             <tr>
-                <td class="auto-style9">&nbsp;<asp:Button ID="Button13" runat="server" Height="78px" Text="send ticket" Width="213px" />
+                <td class="auto-style9">&nbsp;<asp:Button ID="Button13" runat="server" Height="22px" Text="send ticket" Width="255px" />
                     &nbsp;<br />
                     &nbsp;
                     <asp:Label ID="Label4" runat="server" CssClass="auto-style6" style="font-size: xx-large" Text="send ticket"></asp:Label>
