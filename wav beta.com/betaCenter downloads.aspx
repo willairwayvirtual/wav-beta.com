@@ -22,7 +22,7 @@
             width: 610px;
         }
         .auto-style5 {
-            height: 109px;
+            height: 10px;
             width: 610px;
         }
         .auto-style6 {
@@ -34,7 +34,7 @@
             width: 520px;
         }
         .auto-style8 {
-            height: 109px;
+            height: 10px;
             width: 520px;
         }
     </style>
@@ -51,19 +51,19 @@
             <tr>
                 <td class="auto-style3"></td>
                 <td class="auto-style6">
-                    <asp:Button ID="Button1" runat="server" Height="66px" Text="Button" Width="705px" />
+                    <asp:Button ID="Button1" runat="server" Height="66px" Text="downloads" Width="705px" />
                 </td>
             </tr>
             <tr>
                 <td class="auto-style4"></td>
                 <td class="auto-style7">
-                    <asp:Button ID="Button2" runat="server" Height="66px" Text="Button" Width="705px" />
+                    <asp:Button ID="Button2" runat="server" Height="66px" Text="downloads" Width="705px" />
                 </td>
             </tr>
             <tr>
                 <td class="auto-style5"></td>
                 <td class="auto-style8">
-                    <asp:Button ID="Button3" runat="server" Height="114px" Text="Button" Width="709px" />
+                    <asp:Button ID="Button3" runat="server" Height="114px" Text="downloads" Width="709px" />
                 </td>
             </tr>
         </table>
