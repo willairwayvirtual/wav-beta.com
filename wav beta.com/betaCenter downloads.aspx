@@ -45,8 +45,6 @@
             Welcome to beta Center downloads</div>
         <p>
             &nbsp;</p>
-        <p>
-            &nbsp;</p>
         <table class="auto-style2">
             <tr>
                 <td class="auto-style3"></td>

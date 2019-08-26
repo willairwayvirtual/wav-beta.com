@@ -77,7 +77,7 @@
             </div>
             <p class="auto-style13">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <asp:Button ID="Button1l" runat="server" BackColor="#FF9900" CssClass="auto-style6" Height="54px" Text="Login" Width="364px" />
+                <asp:Button ID="Button1l" runat="server" BackColor="#FF9900" CssClass="auto-style6" Height="48px" Text="Login" Width="346px" />
                 <asp:Button ID="Button5" runat="server" BackColor="#666666" BorderColor="#999999" CssClass="auto-style14" Height="53px" Text="Reset your password" Width="596px" />
             </p>
         </div>
