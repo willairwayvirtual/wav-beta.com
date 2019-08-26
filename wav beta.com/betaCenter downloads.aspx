@@ -42,7 +42,7 @@
 <body>
     <form id="form1" runat="server">
         <div class="auto-style1">
-            Welcome tobetaCenter downloads</div>
+            Welcome to beta Center downloads</div>
         <p>
             &nbsp;</p>
         <p>
