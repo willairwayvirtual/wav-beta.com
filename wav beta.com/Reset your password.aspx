@@ -37,7 +37,7 @@
                 <tr>
                     <td class="auto-style7">User Name</td>
                     <td class="auto-style6">
-                        <asp:TextBox ID="TextBox1_uname" runat="server" CssClass="auto-style14" ForeColor="Black" Height="35px" Width="433px"></asp:TextBox>
+                        <asp:TextBox ID="TextBox1_uname" runat="server" CssClass="auto-style14" ForeColor="Black" Height="35px" Width="433px" style="font-size: xx-large"></asp:TextBox>
                     </td>
                     <td>&nbsp;</td>
                 </tr>

@@ -92,6 +92,9 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="betaCenter downloads.aspx" />
+    <Content Include="betaCenter log in.aspx" />
+    <Content Include="enroll.aspx" />
     <Content Include="Global.asax" />
     <Content Include="login.aspx" />
     <Content Include="Reset your password.aspx" />
@@ -99,6 +102,27 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="betaCenter downloads.aspx.designer.vb">
+      <DependentUpon>betaCenter downloads.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="betaCenter downloads.aspx.vb">
+      <DependentUpon>betaCenter downloads.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="betaCenter log in.aspx.designer.vb">
+      <DependentUpon>betaCenter log in.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="betaCenter log in.aspx.vb">
+      <DependentUpon>betaCenter log in.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="enroll.aspx.designer.vb">
+      <DependentUpon>enroll.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="enroll.aspx.vb">
+      <DependentUpon>enroll.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
     <Compile Include="Global.asax.vb">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>

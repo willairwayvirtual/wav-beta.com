@@ -1,4 +1,4 @@
-﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="login.aspx.vb" Inherits="wav_beta.com.login" %>
+﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="betaCenter log in.aspx.vb" Inherits="wav_beta.com.betaCenter_log_in" %>
 
 <!DOCTYPE html>
 
@@ -6,6 +6,7 @@
 <head runat="server">
     <title></title>
     <style type="text/css">
+
 
         .auto-style10 {
             text-align: center;
@@ -45,15 +46,20 @@
             height: 38px;
             width: 1126px;
         }
-        </style>
+        .auto-style15 {
+            text-align: center;
+            height: 38px;
+            width: 1126px;
+            font-size: x-large;
+        }
+    </style>
 </head>
 <body>
     <form id="form1" runat="server">
         <div>
             <div>
                 <div class="auto-style10">
-                    Welcome toWillairways Virtual beta please enter you username and password
-                </div>
+                    Welcome toWav beta please enter you username and password </div>
                 <table class="auto-style2">
                     <tr>
                         <td class="auto-style3">Username</td>
@@ -78,9 +84,11 @@
             <p class="auto-style13">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <asp:Button ID="Button1l" runat="server" BackColor="#FF9900" CssClass="auto-style6" Height="54px" Text="Login" Width="364px" />
-                <asp:Button ID="Button5" runat="server" BackColor="#666666" BorderColor="#999999" CssClass="auto-style14" Height="53px" Text="Reset your password" Width="596px" />
             </p>
         </div>
     </form>
+    <p class="auto-style15">
+        if you lose Username or Password&nbsp; please CONTACT US at wavuserhelpdesk@hotmail.com
+    </p>
 </body>
 </html>
