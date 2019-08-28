@@ -16,10 +16,14 @@
         .auto-style3 {
             height: 64px;
             width: 610px;
+            font-size: xx-large;
+            text-decoration: underline;
         }
         .auto-style4 {
             height: 60px;
             width: 610px;
+            font-size: xx-large;
+            text-decoration: underline;
         }
         .auto-style5 {
             height: 10px;
@@ -47,13 +51,13 @@
             &nbsp;</p>
         <table class="auto-style2">
             <tr>
-                <td class="auto-style3"></td>
+                <td class="auto-style3"><strong>wavSetup.exe.msi</strong></td>
                 <td class="auto-style6">
                     <asp:Button ID="Button1" runat="server" Height="66px" Text="downloads" Width="705px" />
                 </td>
             </tr>
             <tr>
-                <td class="auto-style4"></td>
+                <td class="auto-style4"><strong>wav Dispatch.msi</strong></td>
                 <td class="auto-style7">
                     <asp:Button ID="Button2" runat="server" Height="66px" Text="downloads" Width="705px" />
                 </td>

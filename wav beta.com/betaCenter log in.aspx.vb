@@ -25,7 +25,7 @@ Public Class betaCenter_log_in
         If result > 0 Then
 
 
-            Response.Redirect("betaCenterdownloadsaspx")
+            Response.Redirect("betaCenterdownloads.aspx")
         Else
             Label2.Text = "YOU DONT EXIST"
         End If
