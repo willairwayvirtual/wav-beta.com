@@ -45,6 +45,12 @@
             height: 38px;
             width: 1126px;
         }
+        .auto-style15 {
+            text-align: center;
+            height: 38px;
+            width: 1126px;
+            font-size: xx-large;
+        }
         </style>
 </head>
 <body>
@@ -78,8 +84,9 @@
             <p class="auto-style13">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <asp:Button ID="Button1l" runat="server" BackColor="#FF9900" CssClass="auto-style6" Height="48px" Text="Login" Width="346px" />
-                <asp:Button ID="Button5" runat="server" BackColor="#666666" BorderColor="#999999" CssClass="auto-style14" Height="53px" Text="Reset your password" Width="596px" />
             </p>
+            <p class="auto-style15">
+                please go to www.<span style="color: rgb(36, 41, 46); font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, monospace; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: pre; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">willairwayvirtual.com/ResetPassword</span></p>
         </div>
     </form>
 </body>

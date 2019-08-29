@@ -8,9 +8,6 @@ Public Class login
 
     End Sub
 
-    Private Sub Button5_Click(sender As Object, e As EventArgs) Handles Button5.Click
-        Response.Redirect("Reset your password.aspx")
-    End Sub
 
     Private Sub Button1l_Click(sender As Object, e As EventArgs) Handles Button1l.Click
         'Dim lastName As String

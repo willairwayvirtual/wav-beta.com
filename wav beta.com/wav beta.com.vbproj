@@ -97,7 +97,6 @@
     <Content Include="enroll.aspx" />
     <Content Include="Global.asax" />
     <Content Include="login.aspx" />
-    <Content Include="Reset your password.aspx" />
     <Content Include="wav beta.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -151,13 +150,6 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
-    </Compile>
-    <Compile Include="Reset your password.aspx.designer.vb">
-      <DependentUpon>Reset your password.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Reset your password.aspx.vb">
-      <DependentUpon>Reset your password.aspx</DependentUpon>
-      <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="wav beta.aspx.designer.vb">
       <DependentUpon>wav beta.aspx</DependentUpon>
